@@ -1,0 +1,68 @@
+#ex1{
+    width: 200px;
+    height: 100px;
+    border: 3px green solid;
+}   
+
+#ex2{
+     width: 150px;
+    height: 150px;
+    background-color: blue;
+}
+
+#ex3{
+    color: red;
+    font-family: arial;
+    font-size: 20px;
+}
+
+#ex4{
+    text-align: center;
+    color: purple
+
+}
+
+#ex5{
+    background-color: #eeeeee;
+    margin: 25px;
+}
+
+#ex6{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-bottom: 30px;
+
+
+}
+
+#ex6{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+
+}
+
+#ex7{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50px;
+
+}
+
+#caixa-destaque{
+    width: 500px;
+    height: 50px;
+    border: 2px  cyan dashed;
+
+}
+
+.texto-importante{
+    font-weight: bold;
+
+}
+
+#ex10:hover{
+    color:red;
+}
